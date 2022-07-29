@@ -2,3 +2,12 @@
     width:200px;
     height:200px;
 } */
+
+.company-logo img {
+  width: 115px;
+}
+
+.carousel-caption {
+  bottom: 50%;
+  transform: translateY(50%);
+}
